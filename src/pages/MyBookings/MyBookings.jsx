@@ -29,11 +29,14 @@ const MyBookings = () => {
   return (
     <div>
       <div className="container mx-auto p-14  my-4">
-        <h2 className="text-center font-bold text-3xl md:text-4xl ">
-          Appointments Chart
-        </h2>
-
-        <CustomBarChart data={chartData} />
+        {bookedList.length > 0 && (
+          <>
+            <h2 className="text-center font-bold text-3xl md:text-4xl ">
+              Appointments Chart
+            </h2>
+            <CustomBarChart data={chartData} />
+          </>
+        )}
         <h2 className="text-center font-bold text-3xl md:text-4xl ">
           My Bookings
         </h2>
