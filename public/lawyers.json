@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Advocate Kamal Ahmed",
+    "image": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?q=80&w=600&auto=format&fit=crop",
+    "speciality": "Corporate Law",
+    "experience": 12,
+    "license_number": "BD 98210123",
+    "fee": 250,
+    "availability": ["Monday", "Wednesday", "Friday"]
+  },
+  {
+    "id": 2,
+    "name": "Advocate Farzana Yasmin",
+    "image": "https://images.unsplash.com/photo-1662104935883-e9dd0619eaba?q=80&w=1170&auto=format&fit=crop",
+    "speciality": "Criminal Defense",
+    "experience": 15,
+    "license_number": "BD 12345678",
+    "fee": 300,
+    "availability": ["Tuesday", "Thursday", "Saturday"]
+  },
+  {
+    "id": 3,
+    "name": "Advocate Rakib Hasan",
+    "image": "https://images.unsplash.com/photo-1580489944761-15a19d654956?q=80&w=600&auto=format&fit=crop",
+    "speciality": "Family Law",
+    "experience": 8,
+    "license_number": "BD 55443322",
+    "fee": 180,
+    "availability": ["Monday", "Tuesday", "Thursday"]
+  },
+  {
+    "id": 4,
+    "name": "Advocate Shaheen Alam",
+    "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?q=80&w=600&auto=format&fit=crop",
+    "speciality": "Intellectual Property",
+    "experience": 10,
+    "license_number": "BD 77889900",
+    "fee": 220,
+    "availability": ["Wednesday", "Friday"]
+  },
+  {
+    "id": 5,
+    "name": "Advocate Nusrat Jahan",
+    "image": "https://images.unsplash.com/photo-1567532939604-b6b5b0db2604?q=80&w=600&auto=format&fit=crop",
+    "speciality": "Real Estate Law",
+    "experience": 7,
+    "license_number": "BD 33221144",
+    "fee": 150,
+    "availability": ["Monday", "Wednesday", "Friday", "Saturday"]
+  },
+  {
+    "id": 6,
+    "name": "Advocate Arifur Rahman",
+    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=600&auto=format&fit=crop",
+    "speciality": "Employment Law",
+    "experience": 20,
+    "license_number": "BD 11223344",
+    "fee": 350,
+    "availability": ["Tuesday", "Wednesday"]
+  },
+  {
+    "id": 7,
+    "name": "Advocate Sumaiya Akter",
+    "image": "https://images.unsplash.com/photo-1736939681295-bb2e6759dddc?q=80&w=687&auto=format&fit=crop",
+    "speciality": "Immigration Law",
+    "experience": 9,
+    "license_number": "BD 44556677",
+    "fee": 170,
+    "availability": ["Monday", "Thursday", "Friday"]
+  },
+  {
+    "id": 8,
+    "name": "Advocate Tanvir Hossain",
+    "image": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?q=80&w=600&auto=format&fit=crop",
+    "speciality": "Tax Law",
+    "experience": 14,
+    "license_number": "BD 66778899",
+    "fee": 280,
+    "availability": ["Monday", "Tuesday", "Wednesday"]
+  },
+  {
+    "id": 9,
+    "name": "Advocate Sadia Islam",
+    "image": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?q=80&w=600&auto=format&fit=crop",
+    "speciality": "Civil Rights Law",
+    "experience": 11,
+    "license_number": "BD 99001122",
+    "fee": 200,
+    "availability": ["Tuesday", "Thursday"]
+  },
+  {
+    "id": 10,
+    "name": "Advocate Mehedi Hasan",
+    "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?q=80&w=600&auto=format&fit=crop",
+    "speciality": "Personal Injury",
+    "experience": 13,
+    "license_number": "BD 88776655",
+    "fee": 230,
+    "availability": ["Monday", "Wednesday", "Friday"]
+  },
+  {
+    "id": 11,
+    "name": "Advocate Rubaiya Khanam",
+    "image": "https://images.unsplash.com/photo-1554151228-14d9def656e4?q=80&w=600&auto=format&fit=crop",
+    "speciality": "Environmental Law",
+    "experience": 6,
+    "license_number": "BD 55664433",
+    "fee": 160,
+    "availability": ["Thursday", "Friday", "Saturday"]
+  },
+  {
+    "id": 12,
+    "name": "Advocate Zulfikar Ali",
+    "image": "https://images.unsplash.com/photo-1547425260-76bcadfb4f2c?q=80&w=600&auto=format&fit=crop",
+    "speciality": "Medical Malpractice",
+    "experience": 18,
+    "license_number": "BD 33445566",
+    "fee": 320,
+    "availability": ["Tuesday", "Wednesday", "Thursday"]
+  }
+]
