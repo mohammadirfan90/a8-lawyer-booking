@@ -33,6 +33,7 @@ const LawyerDetails = () => {
     availability,
     license_number,
   } = singleLawyer;
+
   useEffect(() => {
     const storedBookings = getStoredBooking();
     if (storedBookings.includes(id)) {
@@ -40,7 +41,11 @@ const LawyerDetails = () => {
     }
   }, [id]);
 
-  console.log(availability);
+  useEffect(() => {
+    if (name) {
+      document.title = name;
+    }
+  }, [name]); console.log(availability);
 
   const handleBookAppointment = (id) => {
     const success = addToStoredDB(id);
